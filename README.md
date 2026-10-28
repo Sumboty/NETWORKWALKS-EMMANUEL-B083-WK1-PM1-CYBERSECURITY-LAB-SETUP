@@ -1,6 +1,6 @@
 # Project Title: Lab Setup - Deploy Virtual Machines
 ## Project Supervisor: Mr. Waqas Karim (CCIE)
-### Prepared By: EMMANUEL B083 - Week 1 PM1
+### Prepared By: OLASUMBO B084 - Week 1 PM1
 
 ## 1. Project Overview
 Virtual machines play a vital role in modern computing by providing isolated environments. This lab focuses on deploying Kali Linux on VirtualBox with NAT networking, clipboard sharing and shared folders for cybersecurity practice.
